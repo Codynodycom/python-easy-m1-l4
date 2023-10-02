@@ -2,11 +2,9 @@
 
 ## Содержание
 
-[](theory/)
+[Методы строк](theory/01-strings-methods.md)
 
-[](theory/)
-
-[](theory/)
+[Полный список методов](theory/02-list-of-methods.md)
 
 <hr>
 
